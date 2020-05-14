@@ -1,5 +1,7 @@
 # Pure
 Ahead, Armageddon.  
 
-Optional mods - Remove to save some RAM:  
-* Dynamic Surroundings
+Optional mods - Remove to save some RAM:
+* BetterFoliage  
+  
+DynamicSurroundings is removed due to high memory consumption.
