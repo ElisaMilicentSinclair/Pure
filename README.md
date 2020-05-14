@@ -1,5 +1,5 @@
 ## Pure (1.12.2)
-### Forge: 1.12.2 last stable  
+### Forge: 1.12.2 recommended  
 Ahead, Armageddon.  
 
 Optional mods - Remove to save some computational resources:
